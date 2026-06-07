@@ -8,7 +8,7 @@ This repository contains the official implementation of **Task 5: Tree-Based Mod
 ## 🚀 Live Interactive Notebook
 GitHub can occasionally experience rendering timeouts with large model plots or complex data frames. To view the complete verified dashboard, graphs, and performance scores seamlessly, use the link below:
 
-👉 **[Click Here to View the Project on NBViewer](https://nbviewer.org/)**
+👉 **[Click Here to View the Project on NBViewer](https://nbviewer.org/github/rayricha97-hub/AIML-Internship-Task5/blob/main/Decision_Tree_Random_Forest_Task5.ipynb)**
 
 ---
 

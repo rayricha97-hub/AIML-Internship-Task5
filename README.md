@@ -40,4 +40,4 @@ The models generated highly stable and consistent predictive results upon execut
 ## 🎯 Validation Dashboards
 Below is the structural breakdown and attribute contribution charts generated during the evaluation step:
 
-*(Tip: You can drag and drop your final execution screenshot showing both plots right here to display it on your profile!)*
+
